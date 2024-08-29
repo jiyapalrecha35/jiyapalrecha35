@@ -54,8 +54,8 @@ I love coding and traveling to new places ✈️, and I'm a nature lover who fin
 
 ### 🚀 GitHub Stats
 
-![Jiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiyaPalrecha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyaPalrecha&layout=compact&theme=radical)
+![Jiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyapalrecha35&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapalrecha35&layout=compact&theme=radical)
 
 ---
 
