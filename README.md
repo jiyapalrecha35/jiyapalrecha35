@@ -43,3 +43,22 @@ I love coding and traveling to new places ✈️, and I'm a nature lover who fin
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jiya-palrecha/)
 
+---
+
+### 🎯 Fun Facts About Me
+- 🌍 I’m on a mission to merge technology with nature for a sustainable future.
+- ✈️ I love exploring new places and cultures.
+- 🌳 I find peace in nature and believe in creating tech that respects our planet.
+
+---
+
+### 🚀 GitHub Stats
+
+![Jiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiyaPalrecha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyaPalrecha&layout=compact&theme=radical)
+
+---
+
+### 💡 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
