@@ -57,10 +57,6 @@ I love coding and traveling to new places ✈️, and I'm a nature lover who fin
 
 ---
 
-### 📄 My Resume
-[📂 View My Resume](https://drive.google.com/file/d/1ppiqQ9yWCNRDU5gKIP_0mjLVg7fwLbhC/view?usp=sharing)
-
----
 
 ### 💬 Let's Connect
 
@@ -75,12 +71,6 @@ I love coding and traveling to new places ✈️, and I'm a nature lover who fin
 - ✈️ Love exploring new places and cultures.  
 - 🌳 Find peace in nature and believe in creating tech that respects our planet.  
 
----
-
-### 🚀 GitHub Stats
-
-![Jiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyapalrecha35&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapalrecha35&layout=compact&theme=radical)
 
 ---
 
